@@ -49,7 +49,7 @@ Awards
   * May 2022: [EA Berkeley AI Safety Distillation Contest](https://eaberkeley.com/distillation-contest-winners), 3rd Place
   * November 2021: [Gates Foundation Case Competition](https://www.facebook.com/events/933047190947185?), Honorable Mention
   * July 2021: UAE National Debate Team Member, ranked 20th globally in [WSDC Macau 2021](https://www.facebook.com/Macau-Online-WSDC-2021-688025308295069/)
-  * April 2021: [Euclid Math Contest](https://www.cemc.uwaterloo.ca/contests/euclid.html), Medal: School Topper, Certificate of Distinction (Top 25\% Worldwide)
+  * April 2021: [Euclid Math Contest](https://www.cemc.uwaterloo.ca/contests/euclid.html), Medal: School Topper, Certificate of Distinction (Top 25% Worldwide)
   * January 2020: [Infinity 2020 Mathematics Competition](https://www.adityabirlaworldacademy.com/media/infinity), Runner-up
   * September 2019: [Oxford & Princeton's John Locke Institute Essay Competition](https://www.johnlockeinstitute.com/essay-competition) Politics Category, Commendation
   * May 2020: [Curtin University Writing Competition](http://www.usaco.org/index.php?page=open20results) Business Category, Runner-up
