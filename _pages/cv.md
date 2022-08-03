@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a summary, please reference my [resume](https://github.com/yashdave003/yashdave003.github.io/files/Yash_Dave_Resume.pdf).
+For a summary, please reference my [resume](https://github.com/yashdave003/yashdave003.github.io/blob/master/files/Yash_Dave_Resume.pdf).
 
 Education
 ======
