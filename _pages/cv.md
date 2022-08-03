@@ -9,51 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+For a summary, please reference my [resume](https://github.com/petezh/ModuLatex-Resume/blob/master/resume-general/Peter_Zhang_Resume.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* UC Berkeley, B.A. Applied Math, Data Science, and Public Policy Minor, expected 2024
+  * <strong>Coursework</strong>: [Functional Programming](https://inst.eecs.berkeley.edu/~cs61a/fa21/), [Algorithms & Data Structures](http://sp22.datastructur.es/), [Data Science](https://ds100.org/fa22/), [Discrete Mathematics](https://classes.berkeley.edu/content/2022-spring-math-55-001-lec-001), [Multivariable Calculus](https://classes.berkeley.edu/content/2021-fall-math-53-001-lec-001), [Macro](https://classes.berkeley.edu/content/2022-Spring-ECON-101B-001-LEC-001)economics
+  * <strong>Activities</strong>: [Effective Altruism Berkeley](https://eaberkeley.com/), [The Debate Society of Berkeley](https://debate.berkeley.edu/), [Matriculate](https://www.matriculate.org/)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+👍 - Python, Java, Latex, Git/Terminal, VSCode/IntelliJ
+
+🤏 - R, Javascript, C, React, Node.js, WordPress, SQL
+
+[Experiences](../experiences)
+======
+
+<ul>{% for post in site.experiences reversed %}
+  {% include archive-single-cv.html%}
+{% endfor %}</ul>
+
+[Projects](../projects)
+======
+
+<ul>{% for post in site.projects reversed %}
+  {% include archive-single-cv.html%}
+{% endfor %}</ul>
+
+[Publications](../publications)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  * May 2022: [EA Berkeley AI Safety Distillation Contest](https://eaberkeley.com/distillation-contest-winners), 3rd Place
+  * November 2021: [Gates Foundation Case Competition](https://www.facebook.com/events/933047190947185?), Honorable Mention
+  * July 2021: UAE National Debate Team Member, ranked 20th globally in [WSDC Macau 2021](https://www.facebook.com/Macau-Online-WSDC-2021-688025308295069/)
+  * April 2021: [Euclid Math Contest](https://www.cemc.uwaterloo.ca/contests/euclid.html), Medal: School Topper, Certificate of Distinction (Top 25\% Worldwide)
+  * January 2020: [Infinity 2020 Mathematics Competition](https://www.adityabirlaworldacademy.com/media/infinity), Runner-up
+  * September 2019: [Oxford & Princeton's John Locke Institute Essay Competition](https://www.johnlockeinstitute.com/essay-competition) Politics Category, Commendation
+  * May 2020: [Curtin University Writing Competition](http://www.usaco.org/index.php?page=open20results) Business Category, Runner-up
