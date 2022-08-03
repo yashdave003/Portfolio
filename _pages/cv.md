@@ -14,7 +14,7 @@ For a summary, please reference my [resume](https://github.com/petezh/ModuLatex-
 Education
 ======
 * UC Berkeley, B.A. Applied Math, Data Science, and Public Policy Minor, expected 2024
-  * <strong>Coursework</strong>: [Functional Programming](https://inst.eecs.berkeley.edu/~cs61a/fa21/), [Algorithms & Data Structures](http://sp22.datastructur.es/), [Data Science](https://ds100.org/fa22/), [Discrete Mathematics](https://classes.berkeley.edu/content/2022-spring-math-55-001-lec-001), [Multivariable Calculus](https://classes.berkeley.edu/content/2021-fall-math-53-001-lec-001), [Macro](https://classes.berkeley.edu/content/2022-Spring-ECON-101B-001-LEC-001)economics
+  * <strong>Coursework</strong>: [Functional Programming](https://inst.eecs.berkeley.edu/~cs61a/fa21/), [Algorithms & Data Structures](http://sp22.datastructur.es/), [Data Science](https://ds100.org/fa22/), [Discrete Mathematics](https://classes.berkeley.edu/content/2022-spring-math-55-001-lec-001), [Multivariable Calculus](https://classes.berkeley.edu/content/2021-fall-math-53-001-lec-001), [Math-Intensive Macroeconomics](https://classes.berkeley.edu/content/2022-Spring-ECON-101B-001-LEC-001)
   * <strong>Activities</strong>: [Effective Altruism Berkeley](https://eaberkeley.com/), [The Debate Society of Berkeley](https://debate.berkeley.edu/), [Matriculate](https://www.matriculate.org/)
 
 Skills
