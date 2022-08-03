@@ -13,7 +13,7 @@ name                     : &name "Yash Dave"
 description              : &description "personal description"
 url                      : "https://yashdave003.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yashdave003/yashdave003.github.io"
+repository               : "yashdave003/Portfolio"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yash Dave"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : 
   location         : "Berkeley"
   employer         :
