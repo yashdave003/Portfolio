@@ -3,5 +3,3 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor/bundle
-**/*.DS_Store
-images/.DS_Store
